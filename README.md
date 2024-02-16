@@ -1,5 +1,8 @@
-# RERA-scrapping-using-pyython
-Scrapping hprera site using python libraries such as Seleinium and BeautifulSoup. 
+# HPRERA-scrapping-using-python and  and bring in the list of the first 5 projects under the “Registered Projects” heading containing the following fields in their detail pages (click on rera number to see the detail): GSTIN No, PAN No, Name, Permanent Address 
+https://hprera.nic.in/PublicDashboard
+
+
+# Scrapping hprera site using python libraries such as Seleinium and BeautifulSoup. 
 
 1. Import required Libraries
 2. Inspect the Webpage
