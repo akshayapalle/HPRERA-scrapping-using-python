@@ -1,4 +1,4 @@
-# HPRERA-scrapping-using-python and  and bring in the list of the first 5 projects under the “Registered Projects” heading containing the following fields in their detail pages (click on rera number to see the detail): GSTIN No, PAN No, Name, Permanent Address 
+HPRERA-scrapping-using-python and  and bring in the list of the first 5 projects under the “Registered Projects” heading containing the following fields in their detail pages (click on rera number to see the detail): GSTIN No, PAN No, Name, Permanent Address 
 https://hprera.nic.in/PublicDashboard
 
 
@@ -12,6 +12,6 @@ https://hprera.nic.in/PublicDashboard
 3. Find the 'Registered Projects' Section
 4. Extract Project Information
 5. Run the Code
-# Incase if there are any issues related loading of dynamic content, then use the selenium .
+#Incase if there are any issues related loading of dynamic content, then use the selenium .
 6. After succesfully retrieving data you can store the file in csv format or any other required format. 
 
